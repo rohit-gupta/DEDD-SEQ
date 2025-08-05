@@ -2,6 +2,10 @@
 __pycache__/
 *.pyc
 
+# Weights
+*.pth
+
+
 # Virtual environment
 venv/
 .venv/
